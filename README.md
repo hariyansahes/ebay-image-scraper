@@ -1,2 +1,2 @@
 # ebay-image-scraper
-this is script for scrap image product from ebay
+this is script for scrap image product from ebay using html dom
